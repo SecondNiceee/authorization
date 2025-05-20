@@ -20,6 +20,7 @@ export default {
           md: "100%",
           lg: "1140px",
         },
+        
       },
     },
   },
